@@ -1,0 +1,20 @@
+    [{
+    "CAREER OBJECTIVE": "To work in a progressive organization where I can expand all my knowledge 
+                         and provide me an exciting opportunities to utilize my skills and to prove 
+                        myself",
+
+     "CAREER SUMMARY": "An year experience in VLSI domain (RTL Development & FPGA Design Engineering)
+                        Knowledge on Verilog programming.
+                        Knowledge on scripting languages – Perl, Tcl and shell",
+                        
+      "Work Experience" : "MBIT WIRELESS,Development Engineer from June 2018 to October 2019",
+      "Educational Background" : "Completed B.Tech (Electronics and Communication Engineering)
+                                  at Christ college of engineering and technology, 
+                                  Puducherry with 9.21 CGPA.
+	                              Completed HSC at Immaculate girls higher secondary school, 
+                                  Puducherry with 88.75%" ,
+      "Personal Information" : {"Date of Birth ":"21st November 1996",
+                                "Languages Known":"English, Tamil",
+                                "Nationality":"Indian"}                              
+
+}]
